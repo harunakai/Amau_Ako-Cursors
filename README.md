@@ -13,7 +13,7 @@
 bilibili 日下部仁（几乎是全网通用id）
 
 ### 其他
-如果觉得还可以的话不妨给我的视频投个三连
+如果觉得还可以的话不妨给我的[**视频**](https://www.bilibili.com/video/BV1xw411r7Pg/)投个三连
 如果觉得指针不好看想自己改的话我会把扣完的图丢在项目里自行下载绘制
 
 ## Amau Ako Cursors
@@ -29,5 +29,5 @@ Download, right-click ini and install.
 Bilibili 日下部仁(almost universal user-id of me in the Internet)
 
 ### Other
-If you think it's okay, please give my video a san-lian.
+If you think it's okay, please give my [**video**](https://www.bilibili.com/video/BV1xw411r7Pg/) a san-lian.
 If you don't like the Cursors and want to change them yourself, I'll throw the finished image in the project and download it for you to draw.
