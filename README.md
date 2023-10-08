@@ -10,7 +10,7 @@
 下载 右键ini安装即可
 
 ### 制作者
-bilibili 日下部仁（几乎是全网通用id）
+bilibili [日下部仁](https://space.bilibili.com/4756838)（几乎是全网通用id）
 
 ### 其他
 如果觉得还可以的话不妨给我的[**视频**](https://www.bilibili.com/video/BV1xw411r7Pg/)投个三连
@@ -26,7 +26,7 @@ That's it for the first version, then I'll see if we can find another image or m
 Download, right-click ini and install.
 
 ### Creator
-Bilibili 日下部仁(almost universal user-id of me in the Internet)
+Bilibili [日下部仁](https://space.bilibili.com/4756838)(almost universal user-id of me in the Internet)
 
 ### Other
 If you think it's okay, please give my [**video**](https://www.bilibili.com/video/BV1xw411r7Pg/) a san-lian.
